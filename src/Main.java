@@ -6,6 +6,7 @@ public class Main {
         }
     }
 
+
     private static long fibonacci(int n) {
         if (n <= 1) {
             return n;
